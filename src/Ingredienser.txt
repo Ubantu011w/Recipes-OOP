@@ -1,0 +1,5 @@
+Lightrum:liter:20.0:
+Mint:piece:0.05:
+Sugar:kg:1.0:
+Milk:liter:2.0:
+Soda:liter:1.0:

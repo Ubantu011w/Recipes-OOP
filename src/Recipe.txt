@@ -1,0 +1,2 @@
+Milkshake?2.0?Sugar:kg:0.2:,Milk:liter:1.0:,?Shake Shake?2.2?
+Mojito?1.0?Soda:liter:0.5:,Mint:piece:3.0:,Sugar:kg:0.1:,Lightrum:liter:0.1:,?Mud, Bash and shake.?2.75?
